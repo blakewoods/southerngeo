@@ -1,0 +1,50 @@
+* {
+  font-family: sans-serif;
+  margin: auto;
+  float: none;
+  max-width: 500px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 0;
+}
+
+header{
+  display: inline;
+}
+
+body{
+  padding-top: 20px;
+}
+
+a {
+  color: cadetblue;
+}
+
+p{
+  margin-top: 10px;
+  font-size: 14px;
+  font-style:
+}
+code{
+  font-size: 14px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  line-height: 0.75;
+}
+h2{
+  color: rgba(1,1,1,0.6);
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 0.75;
+}
+.footer {
+  padding: 60px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
