@@ -1,0 +1,47 @@
+* {
+    font-family: monospace;
+    background-color: #f9eddf;
+}
+
+body {
+    max-width: 500px;
+    margin: auto;
+    padding: 0;
+}
+
+p {
+    font-size: 14px;
+}
+
+h1 {
+    font-weight: bold;
+    color: rgb(37,74,154);
+}
+
+object {
+    margin-top: 50px;
+}
+
+.nav {
+    list-style: none;
+    text-align: center;
+}
+
+.nav li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px 0 20px;
+}
+
+.nav a {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.footer {
+    position: fixed;
+    left: 50px;
+    bottom: 50px;
+    text-align: center;
+}
