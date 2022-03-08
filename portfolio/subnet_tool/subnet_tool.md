@@ -2,6 +2,8 @@
 
 A lightweight tool built in python to update subnetworks within the Utility Network.
 
+![subnet](subnet.png)
+
 ### Why?
 
 The traditional way of doing it through geoprocessing in ArcGIS Pro took roughly 15 minutes. This was from creating the subnetwork, validating the dirty areas around the subnetwork, and then the longest part; updating the subnetwork with the built-in tool.
@@ -34,12 +36,13 @@ The target Utility Network manages roughly 4,100km of overhead and underground l
 - Easily customizable dropdowns for servers, domain networks, and tiers.
 - Always On Top toggle, to stop it from getting lost on your desktop.
 
+![subnet expanded](subnet-expanded.png)
+
 ### Use
 
-The tool works alongside ArcGIS as a 'standalone' program, as seen in the screenshots below.
-![subnet](/subnet.png)
-![subnet expanded](/subnet_expanded.png)
-![subnet full](/subnet-full.png)
+The tool works alongside ArcGIS as a 'standalone' tool, as seen in the screenshots below.
+
+![subnet full](subnet-full.png)
 
 ### Wrap Up
 

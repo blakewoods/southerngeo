@@ -31,6 +31,11 @@ li {
   font-size: 14px;
 }
 
+hr {
+  margin-top: 10px;
+  max-width: 600px;
+}
+
 object {
     margin-top: 50px;
     max-width: 200px;
@@ -54,9 +59,25 @@ object {
     color: #2bbc8a;
 }
 
+.portfolio {
+  margin: 20px 0px 20px 0px;
+  padding: 5px 20px 5px 20px;
+  background-color: #E5E5E5
+}
+
+.portfolio-header {
+  margin-bottom: 0px;
+}
+.portfolio-meta {
+  font-size: 11px;
+  margin: 0;
+}
+
 .button-right {
   text-align: right;
   color: #ffffff;
+  margin-top: 0px;
+  padding: 0;
 }
 
 .footer {
