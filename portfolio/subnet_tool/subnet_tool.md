@@ -1,10 +1,4 @@
----
-title: "Home"
-date: 2021-08-20T21:29:53+12:00
-draft: true
----
-
-# # ArcGIS Pro - Utility Network External Tool
+# ArcGIS Pro - Utility Network External Tool
 
 A lightweight tool built in python to update subnetworks within the Utility Network.
 
@@ -34,21 +28,18 @@ The target Utility Network manages roughly 4,100km of overhead and underground l
 ### Features
 
 - Much faster than the traditional way of updating subnetworks.
-- Lightweight and very easy to use. Uses very few resources (due to the fact it doesn't need to use the ArcGIS Pro UI thread).
+- Lightweight and very easy to use. Uses very few resources on top of actual computing (due to the fact it doesn't need to use the ArcGIS Pro UI thread).
 - Performance report after each operation run - handy for checking speed and health of Utility Network.
 - Ability to paste from clipboard, reducing the time spent typing in or misspelling subnetwork names.
 - Easily customizable dropdowns for servers, domain networks, and tiers.
-- Always On Top toggle, to stop it from getting lost on your desktop! 
+- Always On Top toggle, to stop it from getting lost on your desktop.
 
 ### Use
 
 The tool works alongside ArcGIS as a 'standalone' program, as seen in the screenshots below.
-
-![subnet](\subnet.png) ![image-20210820221157940](\subnet-expanded.png)
-
-
-
-![subnet](\subnet-full.png)
+![subnet](/subnet.png)
+![subnet expanded](/subnet_expanded.png)
+![subnet full](/subnet-full.png)
 
 ### Wrap Up
 

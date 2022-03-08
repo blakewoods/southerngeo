@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40cm"
+   height="25cm"
+   viewBox="0 0 40 25"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="logo-black.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   inkscape:export-filename="D:\SouthernGeo\core\logos\logo-black.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview849"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="cm"
+     showgrid="false"
+     inkscape:zoom="0.65603796"
+     inkscape:cx="729.37853"
+     inkscape:cy="291.90384"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-grids="false" />
+  <defs
+     id="defs844">
+    <rect
+       x="0"
+       y="0"
+       width="1991.3178"
+       height="1009.8369"
+       id="rect3771" />
+    <rect
+       x="20"
+       y="20"
+       width="245"
+       height="110"
+       id="rect66902" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       style="fill:#000000;stroke:none;stroke-width:0.0511618;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="g20177"
+       transform="matrix(0.22828843,0,0,0.22828843,0.98003272,-2.1532884)"
+       mask="none"
+       inkscape:export-filename="D:\SouthernGeo\core\logos\logo-black.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <path
+         d="m 94.246208,38.457394 -11.70505,15.615978 3.467136,4.632093 8.237914,-11.011622 13.868542,18.500637 H 84.649177 L 73.526607,51.299664 58.187996,71.741897 h 61.021594 z m -24.963375,27.737086 4.216036,-5.630628 4.216036,5.630628 z"
+         id="path20167"
+         style="stroke:none;stroke-width:0.141908;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.02361517,0,0,0.02361517,0.64930106,0.15643159)"
+       id="text3769"
+       style="font-style:normal;font-weight:normal;font-size:358.551px;line-height:0.9;font-family:sans-serif;letter-spacing:-10.3428px;white-space:pre;shape-inside:url(#rect3771);fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:export-filename="D:\SouthernGeo\core\logos\logo-black.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300"><tspan
+         x="0"
+         y="266.94858"
+         id="tspan866"><tspan
+           style="font-weight:bold;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold'"
+           id="tspan864">SOUTHERN
+</tspan></tspan><tspan
+         x="0"
+         y="592.22254"
+         id="tspan870"><tspan
+           style="font-weight:bold;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Bold'"
+           id="tspan868">GEO</tspan></tspan></text>
+  </g>
+</svg>
