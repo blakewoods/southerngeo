@@ -59,16 +59,16 @@ object {
     color: #2bbc8a;
 }
 
-.portfolio {
+.section {
   margin: 20px 0px 20px 0px;
   padding: 5px 20px 5px 20px;
   background-color: #E5E5E5
 }
 
-.portfolio-header {
+.section-header {
   margin-bottom: 0px;
 }
-.portfolio-meta {
+.section-meta {
   font-size: 11px;
   margin: 0;
 }
